@@ -8,11 +8,11 @@
 - jika kondisi pertama salah, maka memeriksa apakah bilangan2 lebih besar dari bilangan1 dan bilangan3. Jika benar, maka bilangan2 adalah yang terbesar.
   Jika kedua kondisi sebelumnya salah, maka bilangan3 adalah yang terbesar.Hasil bilangan terbesar ditampilkan menggunakan pernyataan print.
 ## output
-<img src="labspy02/sceansotlabpy2.png" width="500px">
+<img src="labspy02/https://github.com/Ws529/praktikum4/tree/main/labpy02/screanshot.labpy2" width="500px">
 Dengan demikian, program akan menentukan bilangan terbesar di antara ketiga bilangan yang dimasukkan oleh pengguna dan mencetaknya ke layar.
 
 ### flowchart
-<img src="labspy02/flowchart.png" width="500px">
+<img src="labspy02/https://github.com/Ws529/praktikum4/blob/main/labpy02/flowchart%20praktikum2/FLOWCHART_BIL_TERBESAR.pdf" width="500px">
 
 
 
@@ -49,7 +49,7 @@ print("Selesai")
 
 ````
 ## OUTPUT
-<img src="labspy03/labpy03_Latihan1.png" width="500px">
+
 
 ## LATIHAN 2 
 - max_number = None: Variabel max_number diinisialisasi dengan nilai None. 
@@ -99,7 +99,7 @@ else:
 
 
 ## OUTPUT
-<img src="labspy03/labpy03_Latihan2.png" width="500px">
+
 
 ## PROGRAM 1 PY
 - total_keuntungan += modal_awal * 0.01: Pada bulan 3, laba 1% dari modal awal ditambahkan ke total_keuntungan.
@@ -143,7 +143,6 @@ print("Total Keuntungan selama 8 bulan adalah: Rp", total_keuntungan)
 ````
   
 ## OUTPUT
-<img src="labspy03/Program1py.png" width="500px">
 
 ## STRUKTUR KONDISI
 ## Latihan 1
@@ -164,7 +163,7 @@ print("Bilangan terbesar adalah:", terbesar)
 ````
 
 ## OUTPUT
-<img src="struktur kondisi/latihan1py.png" width="500px">
+
 
 ## Latihan 2
 ````
@@ -189,7 +188,7 @@ for bilangan in data:
 
 ````
 ## OUTPUT
-<img src="struktur kondisi/latihan2py.png" width="500px">
+
 
 ## PERULANGAN 
 ## Latihan 1
@@ -201,7 +200,7 @@ for bilangan in data:
 dan kolom yang ditambahkan.
 
 ## OUTPUT
-<img src="perulangan/Perulangan1.png" width="500px">
+
 
 ## Latihan 2
 ````
@@ -220,5 +219,5 @@ while i in range(jum):
 
 ````
 ## OUTPUT
-<img src="perulangan/perulangan2.png" width="500px">
+
 
