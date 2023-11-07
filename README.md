@@ -8,7 +8,7 @@
 - jika kondisi pertama salah, maka memeriksa apakah bilangan2 lebih besar dari bilangan1 dan bilangan3. Jika benar, maka bilangan2 adalah yang terbesar.
   Jika kedua kondisi sebelumnya salah, maka bilangan3 adalah yang terbesar.Hasil bilangan terbesar ditampilkan menggunakan pernyataan print.
 ## output
-<img src="labspy02/labpy02.png" width="500px">
+<img src="labspy02/sceansotlabpy2.png" width="500px">
 Dengan demikian, program akan menentukan bilangan terbesar di antara ketiga bilangan yang dimasukkan oleh pengguna dan mencetaknya ke layar.
 
 ### flowchart
